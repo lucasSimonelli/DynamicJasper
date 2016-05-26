@@ -1,6 +1,6 @@
 # DynamicJasper
 
-DynamicJasper (DJ) is an API that hides the complexity of __JasperReports__, it helps developers to save time when designing 
+DynamicJasper (DJ) is an API that hides the complexity of __JasperReports__, it helps developers save time when designing 
 simple/medium complexity reports generating the layout of the report elements automatically. It creates reports dynamically,
 defining at runtime the columns, column width (auto width), groups, variables, fonts, charts, crosstabs, sub reports 
 (that can also be dynamic), page size and everything else that you can define at design time.
